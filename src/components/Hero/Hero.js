@@ -13,7 +13,7 @@ export default function Hero() {
   return (
     <>
       <div className="flex flex-col rounded-none">
-        <div className="flex relative mt-20 flex-col justify-center items-center px-16 py-32 w-full min-h-[501px] max-md:px-5 max-md:py-24 max-md:max-w-full">
+        <div className="flex relative flex-col justify-center items-center px-16 py-32 w-full min-h-[501px] max-md:px-5 max-md:py-24 max-md:max-w-full">
           <Image
             src={HeroBG}
             alt="Aerial view of the jungle and the ocean"

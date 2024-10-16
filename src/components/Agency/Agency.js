@@ -5,15 +5,15 @@ export default function Agency() {
   return (
     <>
       <div className="flex flex-col rounded-none max-w-[960px] ml-28 mt-20">
-      <div className="flex flex-col px-20 py-14 bg-green-700 ml-14 rounded-3xl max-md:px-5 max-md:max-w-full">
+        <div className="flex flex-col px-20 py-14 bg-green-700 ml-14 rounded-3xl max-md:px-5 max-md:max-w-full">
           <div className="flex gap-5 max-md:flex-col">
             <div className="flex flex-col w-2/5 max-md:ml-0 max-md:w-full">
               <div className="flex flex-col self-stretch my-auto max-md:mt-10">
-                <div className="text-4xl font-bold text-white max-md:mr-2.5">
+                <h1 className="text-4xl font-bold text-white max-md:mr-2.5">
                   Grow and Manage
                   <br />
                   Your Travel Agency
-                </div>
+                </h1>
                 <div className="mt-10 text-lg text-white">
                   Get more tourists, orders placed and guests through our online
                   marketplace. Millions of people order food, book experiences
