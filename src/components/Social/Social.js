@@ -9,7 +9,7 @@ export default function Social() {
   return (
     <>
       <div className="flex flex-col mt-11 justify-center ml-28">
-        <h3 className="self-center text-4xl font-medium text-black max-md:max-w-full">
+        <h3 className="self-center text-3xl font-medium text-black max-md:max-w-full">
           JetHR Travel Management Tools are Trusted By
         </h3>
         <div className="mt-11 w-full max-md:mt-10 max-md:max-w-full">
