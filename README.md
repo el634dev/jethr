@@ -1,5 +1,5 @@
-# Trekk
-> Travel automation tool
+# JetHR
+> Automation tool that helps simplify travel and expense management
 
 ## Getting Started
 First, run the development server:
