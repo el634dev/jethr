@@ -1,9 +1,9 @@
 "use client"
 import React from "react";
 import Image from "next/image";
-import Coinbase from "@/images/coinbase.png";
-import Atlassian from "@/images/atlassian.png";
-import Figma from "@/images/figma.png";
+import Coinbase from '../../../public/images/hero/coinbase.png';
+import Atlassian from '../../../public/images/hero/atlassian.png';
+import Figma from '../../../public/images/hero/figma.png';
 
 export default function Social() {
   return (

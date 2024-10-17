@@ -3,7 +3,7 @@ import React from "react";
 
 export default function Footer() {
     return (
-        <footer className="bg-white text-center text-black lg:text-left">
+        <footer className="bg-blue-800  text-center text-white lg:text-left">
         <hr/>
         {/* <!-- Main container div: holds the entire content of the footer, including four sections (TW Elements, Products, Useful links, and Contact), with responsive styling and appropriate padding/margins. --> */}
         <div className="mx-6 py-10 text-center md:text-left">
@@ -25,10 +25,10 @@ export default function Footer() {
                     Quick Links
                 </h6>
                 <p className="mb-4">
-                    <a className="text-black">Travel Partners</a>
+                    <a className="text-white">Travel Partners</a>
                 </p>
                 <p className="mb-4">
-                    <a className="text-black">Sign In</a>
+                    <a className="text-white">Sign In</a>
                 </p>
                 </div>
                 {/* <!-- Privacy & Terms section --> */}
@@ -38,14 +38,14 @@ export default function Footer() {
                     Privacy & Terms
                 </h6>
                 <p className="mb-4">
-                    <a className="text-black">Terms</a>
+                    <a className="text-white">Terms</a>
                 </p>
                 <p className="mb-4">
-                    <a className="text-black">Privacy</a>
+                    <a className="text-white">Privacy</a>
                 </p>
                 {/***************/}
                 <p>
-                    <a className="text-black">Help</a>
+                    <a className="text-white">Help</a>
                 </p>
             </div>
             {/* <!-- Contact Us section --> */}
@@ -78,15 +78,15 @@ export default function Footer() {
                   <path
                     d="M22.5 6.908V6.75a3 3 0 00-3-3h-15a3 3 0 00-3 3v.158l9.714 5.978a1.5 1.5 0 001.572 0L22.5 6.908z" />
                 </svg>
-                trekk@example.com
+                jethr@example.com
               </p>
             </div>
           </div>
         </div>
         {/* <!--Copyright section--> */}
-        <div className="p-6 text-center bg-white">
-          <span className="text-black">©2024 Copyright </span>
-            <a className="text-black" href="#">
+        <div className="p-6 text-center bg-blue-800">
+          <span className="text-white">©2024 Copyright </span>
+            <a className="text-white" href="#">
                 JetHR
             </a>
         </div>

@@ -1,10 +1,11 @@
 "use client";
 import Image from "next/image";
 import Link from "next/link";
+
 import { usePathname } from "next/navigation";
 import { useEffect, useState } from "react";
 import ThemeToggle from "./ThemeToggle";
-import menuData from "./menuData";
+import menuData from "./MenuData";
 
 export default function Navbar() {
   // Navbar toggle

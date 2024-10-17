@@ -1,6 +1,6 @@
 "use client"
 import React from "react";
-import TravelBG from '@/images/travel-bg.png';
+import TravelBG from '../../../public/images/hero/travel-bg.png';
 import Image from 'next/image';
 
 export default function Business() {

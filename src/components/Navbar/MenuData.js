@@ -1,5 +1,3 @@
-"use client"
-
 const menuData = [
   {
     id: 1,
@@ -14,32 +12,32 @@ const menuData = [
     newTab: false,
   },
   {
-    id: 3,
+    id: 33,
     title: "Pricing",
     path: "/pricing",
     newTab: false,
   },
   {
-    id: 4,
+    id: 3,
     title: "Contact Us",
     path: "/contact",
     newTab: false,
   },
   {
-    id: 5,
+    id: 4,
     title: "Get Started",
     newTab: false,
     submenu: [
       {
-        id: 53,
-        title: "Sign In Page",
-        path: "/signin",
+        id: 41,
+        title: "For Businesses",
+        path: "/businesses",
         newTab: false,
       },
       {
-        id: 54,
-        title: "Login Page",
-        path: "/login",
+        id: 42,
+        title: "For Startups",
+        path: "/startups",
         newTab: false,
       },
     ],
