@@ -12,7 +12,7 @@ import { TbChecklist } from "react-icons/tb";
 export default function MyComponent() {
   return (
     <>
-      <div className="flex flex-col rounded-none">
+      <div className="flex flex-col rounded-none ml-20">
         <div className="flex relative flex-col justify-center items-center px-16 py-32 w-full min-h-[501px] max-md:px-5 max-md:py-24 max-md:max-w-full">
           {/* <Image
             loading="lazy"
