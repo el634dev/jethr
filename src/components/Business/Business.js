@@ -10,11 +10,11 @@ export default function Business() {
         <div className="flex gap-5 max-md:flex-col">
           <div className="flex flex-col w-6/12 max-md:ml-0 max-md:w-full">
             <div className="flex flex-col grow items-start text-2xl font-medium text-black max-md:mt-10">
-              <h1 className="self-stretch text-4xl font-bold max-md:mr-2.5 sm:text-md">
+              <h1 className="self-stretch text-3xl font-medium max-md:mr-2.5 sm:text-md">
                 Put Travel on Repeat and Rest
               </h1>
               <h3 className="self-stretch mt-10">
-                Customizable Travel Expense Tools
+                Professional Expense Tools
               </h3>
               <p className="mt-4 text-base">
                 You set the budget, company policies and location. Employees use a app to find
