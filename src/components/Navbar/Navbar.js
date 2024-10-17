@@ -50,8 +50,8 @@ export default function Navbar() {
       >
         <div className="container">
           <div className="relative -mx-4 flex items-center justify-between">
-            <div className="w-60 max-w-full px-4 xl:mr-12">
-              <h1 className="ml-12 font-medium">JetHR</h1>
+            <div className="w-60 max-w-full text-xl px-4 xl:mr-12">
+              <h1 className="ml-12">JetHR</h1>
             </div>
             <div className="flex w-full items-center justify-between px-4">
               <div>
