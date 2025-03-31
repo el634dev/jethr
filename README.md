@@ -1,5 +1,5 @@
 # JetHR
-> Automation tool that helps simplify travel and expense management
+> Automation tool that helps simplify expense management
 
 ## Getting Started
 First, run the development server:
